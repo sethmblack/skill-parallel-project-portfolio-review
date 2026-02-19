@@ -3,8 +3,8 @@ name: parallel-project-portfolio-review
 description: Assess and optimize a portfolio of parallel initiatives to maintain momentum and innovation using Thomas Edison's Invention Factory methodology.
 license: MIT
 metadata:
-  version: 1.0.4638
   author: sethmblack
+  version: 1.0.4639
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - parallel-project-portfolio-review
